@@ -1,6 +1,6 @@
 .. _dhcpv4-client-sample:
 
-Sample DHCPv4 client application
+Sample DHCPv4 client application(STM Nucleo F411RE + W5500)
 ################################
 
 Overview
