@@ -10,6 +10,8 @@ This application starts a DHCPv4 client, gets an IPv4 address from the
 DHCPv4 server, and prints address, lease time, netmask and router
 information to a serial console.
 
+This example is configured to work on STM Nucleo board and W5500 Ethernet shield..
+
 Requirements
 ************
 
